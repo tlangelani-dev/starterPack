@@ -1,0 +1,12 @@
+{
+    "require": {
+        "hassankhan/config": "0.8.*",
+        "monolog/monolog": "1.17.*",
+        "illuminate/database": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "StarterPack\\": "src/"
+        }
+    }
+}
