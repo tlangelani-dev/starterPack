@@ -1,4 +1,4 @@
 nbproject
 composer.phar
 vendor
-logs/*
+logs/app.txt
